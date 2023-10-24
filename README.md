@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PatrickG241
 - 👀 I’m interested in ... Data Science
-- 🌱 I’m currently learning ... 
+- 🌱 I’m currently learning C++ 
 - 📫 How to reach me ... patrickgraham241@gmail.com
 
 <!---
